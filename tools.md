@@ -7,4 +7,12 @@ Ansible
 SaltStack
 Chef, Puppet
 ```
+### IAC (Infrastructure as Code) Tools
+| Congiguration Management  | Infrastructure  Orchestration |
+| ------------- | ------------- |
+| Ansible, Chef, Puppet  | Terraform, Cloud Formation |
+| Designed to install and manage software on existing servers  | Provision the servers and infrastructure by themselves  |
+| To some degree provide Infra provisioning  | Better fit for Infra provisioning  |
+
+
 This site was built using [GitHub Pages](https://pages.github.com/).
