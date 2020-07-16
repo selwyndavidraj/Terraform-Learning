@@ -2,5 +2,5 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{% include k8s/section3/IAM.md %}
 
