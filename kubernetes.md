@@ -1,3 +1,7 @@
+pre {
+    white-space: pre-wrap;
+}
+
 1. What is Kubernetes?
 ```
 Kubernetes is an orchestration framework for software containers. Containers are a way to package and run code that's more efficient than virtual machines. 
